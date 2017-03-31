@@ -1,0 +1,175 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width:100%;
+    height: 100%;
+     font-family:"Helvetica,Neue",Helvetica,Arial,sans-serif;
+    color: #333333;
+    background-color:#fff;
+}
+h1,h2,h3,h4,h5,h6{
+    margin: 0 0 35px;
+    letter-spacing: 1px;
+}
+nav{
+    padding: 20px;
+    background-color: #fff!important;
+    border-bottom: none!important;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 48px;
+    font-family:"Californian FB";
+}
+.navbar-brand b{
+     color:#3333cc!important;
+}
+.navbar .nav li a{
+    transition: background .3s ease-in-out;
+    font-size: 18px;
+    color: #000!important;
+    padding: 6px;
+}
+.navbar  .nav  li a:hover{
+    outline: none;
+    background-color:#fc7700;
+    color:#f4f4f4!important;
+    border-radius: 5px;
+}
+.navbar-toggle{
+    padding: 4x 6px;
+    font-size: 16px;
+    color: #f4f4f4;
+}
+.bar{
+    color:#e67e22;
+}
+
+#who{
+margin-top: 100px;
+}
+#who p{
+    width: 70%;
+    text-align: justify;
+    margin: auto;
+    line-height: 2em;
+    font-size: 18px;
+}
+#e-wastemanagement{
+    margin-top: 100px;
+    
+}
+#e-wastemanagement p{
+    text-align: justify;
+}
+#contact{
+    padding-bottom: 80px;
+    background: #d3d3d3;
+}
+.first-box{
+    border:1px solid #f4f4f4;
+    padding: 50px;
+    background-color: #f4f4f4;
+    margin:1em;
+    width:47%;
+    margin-top: 50px;
+}
+.first-box:hover{
+    background-color: #333333;
+    color:#fff;
+    padding: 50px;
+    padding: 50px;
+    
+}
+.icon-content li{
+    list-style: none;
+    float:left;
+    margin-left: -50px;
+}
+.small{
+    margin-top: 20px;
+}
+#contact{
+    margin-top: 100px;
+}
+#contact p{
+    margin-top:-3px;
+}
+.text-justify{
+    text-align: center;
+}
+footer{
+    background-color: #f4f4f4;
+}
+footer p{
+    padding: 15px;
+    margin-top: 20px;
+}
+.content-section{
+    padding-top:100px;
+    
+}
+.form-control{
+    box-shadow: none!important;
+    border-radius: 0;
+    
+}
+.contact-heading{
+    margin-bottom: 100px;
+}
+.text{
+    text-align: justify;
+}
+ .navbar-inverse .navbar-nav .active a, #navigation .navbar-inverse .navbar-nav .active a:focus, .navbar-nav.navbar-right li a:hover {
+    color: #fff!important;
+    background-color: #fc7700!important;
+     padding: 6px!important;
+     border-radius: 5px!important;
+}
+.designer{
+     font-size:11px;
+     padding-bottom:20px;
+}
+.text-products{
+    text-align: justify;
+    padding: 0 250px;
+    line-height: 2em;
+    font-size: 18px;
+}
+#images-intro{
+    margin-bottom: 80px;
+}
+.owl-demo .item{
+  margin: 3px;
+}
+.owl-demo .item img{
+  display: inline;
+  width: 100%;
+  height: auto;
+  margin-top: 20px;
+}
+.canon h4{
+    font-size: 16px;
+}
+.xerox h4{
+    font-size: 16px;
+}
+
+.canon img{
+    height: auto;
+    vertical-align: middle;
+}
+.xerox img{
+    height: auto;
+    vertical-align: middle;
+}
+.canon h2{
+    font-size: 24px;
+    margin-top: 70px;
+}
+.xerox h2{
+    font-size: 24px;
+    margin-top:70px;
+}
